@@ -1,4 +1,5 @@
-<h3 align="center">My name is Miguel, I'm from Panama, I am a junior systems and computer engineer</h3>
+<h1 align="center">Hello 👋, My name is Miguel</h1>
+<h3 align="center">I'm from Panama, I am a junior systems and computer engineer</h3>
 
 - 🔭 I’m currently working on **Air quality monitoring system in industrial environments implementing machine learning techniques**
 
@@ -10,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/miguel-hidalgo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel-hidalgo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/miguel-hidalgo-42149b200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel-hidalgo-42149b200" height="30" width="40" /></a>
 <a href="https://instagram.com/miguel_hiidalgo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miguel_hiidalgo" height="30" width="40" /></a>
 <a href="https://discord.gg/yesubzero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yesubzero" height="30" width="40" /></a>
 </p>
