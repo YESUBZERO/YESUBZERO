@@ -1,13 +1,18 @@
 <h1 align="center">Hi! 👋, My name is Miguel</h1>
 <h3 align="center">I'm from Panama, I am a junior systems and computer engineer</h3>
 
-- 🔭 I’m currently working on **Air quality monitoring system in industrial environments implementing machine learning techniques**
-
 - 🌱 I’m currently learning **Devops, MLops, Backend with Python Frameworks**
-
-- 👨‍💻 All of my projects are available at [https://github.com/YESUBZERO?tab=repositories](https://github.com/YESUBZERO?tab=repositories)
-
 - 📫 How to reach me **miguel.10hid@gmail.com**
+
+## Skills
+* Extensive knowledge in IT technical support. 
+* Good knowledge of new technologies in general.
+* Experience with Microsoft Office tools (Word, Excel).
+* Experience in Linux operating systems (Ubuntu Server, Debian).
+* Programming of microservices written in modern languages (Python).
+* Knowledge in SQL and NoSQL database administration.
+* Good technical knowledge in containers and orchestrators (Docker, Kubernetes).
+* Development of knowledge-based systems (Machine Learning, Deep Learning).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
