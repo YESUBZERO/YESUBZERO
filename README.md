@@ -6,12 +6,12 @@
 
 ## Skills
 * Extensive knowledge in IT technical support. 
-* Good knowledge of new technologies in general.
+* Great knowledge of new technologies in general.
 * Experience with Microsoft Office tools (Word, Excel).
 * Experience in Linux operating systems (Ubuntu Server, Debian).
 * Programming of microservices written in modern languages (Python).
 * Knowledge in SQL and NoSQL database administration.
-* Good technical knowledge in containers and orchestrators (Docker, Kubernetes).
+* Great technical knowledge in containers and orchestrators (Docker, Kubernetes).
 * Development of knowledge-based systems (Machine Learning, Deep Learning).
 
 ## Contact
