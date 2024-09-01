@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋, My name is Miguel</h1>
-<h3 align="center">I'm from Panama, I am a junior systems and computer engineer</h3>
+<h3 align="center">I'm from Panama, I am systems and computer engineer</h3>
 
 - 🌱 I’m currently learning **Devops, MLOps, Backend with Python Frameworks**
 - 📫 How to reach me **miguel.10hid@gmail.com**
