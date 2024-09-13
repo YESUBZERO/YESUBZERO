@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋, My name is Miguel</h1>
-<h3 align="center">I'm from Panama, I am systems and computer engineer</h3>
+<h3 align="center">I'm from Panama, systems and computer engineer</h3>
 
-- 🌱 I’m currently learning **Devops, MLOps, Backend with Python Frameworks**
+- 🌱 I’m currently learning **Devops, MLOps, Deep Learning, Research**
 - 📫 How to reach me **miguel.10hid@gmail.com**
 
 ## Skills
