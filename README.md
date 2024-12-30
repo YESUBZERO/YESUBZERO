@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently learning **Devops, MLOps, Deep Learning, Research**
 - 📫 How to reach me **miguel.10hid@gmail.com**
+- 📃 Google Scholar: **https://scholar.google.com/citations?hl=es&user=Wg9nh8AAAAAJ**
 
 ## Skills
 * Extensive knowledge in IT technical support. 
