@@ -10,7 +10,7 @@
 * Great knowledge of new technologies in general.
 * Experience with Microsoft Office tools (Word, Excel).
 * Experience in Linux operating systems (Ubuntu Server, Debian).
-* Programming of microservices written in modern languages (Python).
+* Programming of microservices written in modern languages (Python, Golang).
 * Knowledge in SQL and NoSQL database administration.
 * Great technical knowledge in containers and orchestrators (Docker, Kubernetes).
 * Development of knowledge-based systems (Machine Learning, Deep Learning).
